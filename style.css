@@ -1,0 +1,56 @@
+.register{
+    width: 260px;
+    border-style:solid;
+    border-width: 2px;
+    text-align: center;   
+    margin: 0 auto;
+    display: block;
+}
+.login{
+    width: 360px;
+    height: 160px;
+    border-style:solid; 
+    border-width: 2px;
+    text-align: center;   
+    margin: 0 auto;
+    display: block; 
+    font-family:'Times New Roman', Times, serif;
+    background-color: white;
+}
+.content{
+    display: center;
+    width: -100px;
+    margin: 0 auto;
+    background-position: center;
+}
+input{
+    width: 225px;
+    text-align: center;
+    border-radius: 5px;
+    background-color:white ;
+}
+.variola{
+    width: 150px;
+    background-color: rgb(45, 121, 43);
+    cursor:pointer;
+}
+.gordo{
+    background-color: rgb(45, 121, 43);
+    cursor:pointer;
+}
+.gemas{
+    background-color: rgb(45, 121, 43);
+}
+body{
+    background: url(fotos/beautiful-landscape.-wallpaper_.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    color: #2e532e;
+    border: #000000;
+}
+h1{
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
