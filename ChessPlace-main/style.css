@@ -1,0 +1,75 @@
+/* Estilos para o formulário de registro */
+.register {
+    width: 260px;
+    border: 2px solid;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+/* Estilos para o formulário de login */
+.login {
+    width: 360px;
+    height: 160px;
+    border: 2px solid;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+/* Estilos para o corpo da página */
+body {
+    background: url(fotos/beautiful-landscape.-wallpaper_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    color: #2e532e;
+    border: 1px solid #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para o contêiner de conteúdo */
+.content {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Aumenta a sombra */
+    max-width: 80%; /* Limita a largura máxima a 80% da tela */
+}
+
+/* Estilos para o cabeçalho */
+h1 {
+    font-size: 36px;
+    color: #2e532e;
+}
+
+/* Estilos para os botões */
+button {
+    background-color: #2d7932;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+/* Estilos para os campos de entrada de texto */
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
